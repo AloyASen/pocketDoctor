@@ -1,14 +1,11 @@
+
 # pocket_doctor
 
 Carry Your Doctor in your Pocket ... be safe and healthy and also get the service that you need at lightning speeds
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+=======
+# pocketDoctor
+Making the doctor as a service available for all people in India 
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
